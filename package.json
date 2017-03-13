@@ -1,6 +1,6 @@
 {
   "name": "project-copy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "create a new project fast by copying an old project ",
   "main": "project-copy.js",
   "scripts": {
@@ -28,6 +28,8 @@
   "bugs": {
     "url": "https://github.com/wslicknet/project-copy/issues"
   },
-  "homepage": "https://github.com/wslicknet/project-copy#readme"
+  "homepage": "https://github.com/wslicknet/project-copy#readme",
+  "dependencies": {
+    "yargs": "^4.1.0"
+  }
 }
-

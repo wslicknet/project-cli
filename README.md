@@ -1,2 +1,15 @@
-# project-cli
-create a new project from your any old projects by one command
+# project-copy
+create a new project fast by copying your old projects 
+
+## Install
+    npm install -g project-copy
+
+## Usage
+only one command used in terminal
+
+    new --src=project_old --dest=project_new
+1. src: the old project that you want copy
+2. dest: the new project you named
+
+
+

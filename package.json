@@ -1,0 +1,30 @@
+{
+  "name": "project-copy",
+  "version": "1.0.0",
+  "description": "create a new project fast by copying an old project ",
+  "main": "project-copy.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "new": "./new.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wslicknet/project-copy.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "project copy",
+    "new project",
+    "command"
+  ],
+  "author": "wslicknet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wslicknet/project-copy/issues"
+  },
+  "homepage": "https://github.com/wslicknet/project-copy#readme"
+}
+

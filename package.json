@@ -22,6 +22,9 @@
   ],
   "author": "wslicknet",
   "license": "MIT",
+  "devDependencies": {
+    "yargs": "^4.1.0"
+  },
   "bugs": {
     "url": "https://github.com/wslicknet/project-copy/issues"
   },
